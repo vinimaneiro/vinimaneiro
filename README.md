@@ -1,4 +1,4 @@
-## ola sou Vinicius, aluno do Mariano estou no github fazendo um curso pelo alura 👋
+## ola sou Vinicius, aluno do Marciano estou no github fazendo um curso pelo alura 👋
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhodXlvZDVqN3lhM3RjY3BtdGRiNzdzczgwcGRnNTZsa2VqN3N2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4AkiaxuWlsmUc1qK1/giphy.webp)
 
 
